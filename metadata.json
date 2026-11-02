@@ -1,0 +1,6 @@
+{
+  "name": "صُناع البطولات | TOURNA",
+  "description": "تطبيق متكامل لتنظيم وإدارة بطولات ألعاب كرة القدم الإلكترونية eFootball و FIFA و EA SPORTS FC باحترافية وتوثيق دائم وقوانين بث وروليت منتخبات.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
